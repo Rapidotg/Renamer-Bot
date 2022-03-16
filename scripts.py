@@ -39,7 +39,7 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/JawRipper'>Pred∆tor</a></b>
+├<b>👨‍💻 Dev: <a href='https://t.me/JawRipper'>@JawRipper</a></b>
 │
 ├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
 │
